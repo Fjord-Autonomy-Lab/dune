@@ -73,8 +73,7 @@ namespace Simulators
     ASV::applyForces(void)
     {
       applyDragForces();
-      applyControlForces();
-      // applyAsvActuation();
+      applyAsvActuation();
     }
 
     void
