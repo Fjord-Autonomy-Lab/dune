@@ -1,0 +1,4 @@
+[submodule "user"]
+	path = user
+	url = git@github.com:Fjord-Autonomy-Lab/dune-otter.git
+	branch = safe
